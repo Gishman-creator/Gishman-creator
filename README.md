@@ -8,7 +8,7 @@ Full-Stack Software Developer skilled in end-to-end web architecture, mobile dev
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
