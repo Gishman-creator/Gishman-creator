@@ -8,19 +8,6 @@ Skilled in end-to-end web architecture, mobile development, cloud automation, an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-migisha--yvan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migisha-yvan-3923822ab/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gishman--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gishman-creator)
 
-<br>
-
-## 🧭 About Me
-
-- 🎓 Studying **Software Engineering & Embedded Systems** at Rwanda Coding Academy
-- 💼 Currently building AI-powered learning tools at **Uwera AI**
-- 🌍 Based in Kigali, Rwanda
-- 🗣️ Kinyarwanda (native) · English (fluent) · French (conversational)
-
-<br>
-
-## 🛠️ Tech Stack
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -85,39 +72,3 @@ Skilled in end-to-end web architecture, mobile development, cloud automation, an
 ![Metasploit](https://img.shields.io/badge/Metasploit-113B59?style=for-the-badge&logo=metasploit&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-<br>
-
-## 💼 Experience
-
-**Frontend Developer** (Student Employment) · [Uwera AI](https://uwera.rw/)
-`Jan 2026 – Apr 2026` · Rwanda Coding Academy, LuxDev & Rwanda TVET Board (RTB)
-
-- Built AI-powered interactive learning tools trained on the TVET trades curriculum
-- Developed progress-tracking dashboards, quiz generators, and handout distribution tools for teachers
-
-<br>
-
-## 🎓 Education
-
-**Rwanda Coding Academy (RCA)** · `2023 – 2026`
-Specialization: Software Engineering & Embedded Systems
-
-Specialized high school education focused on software development, embedded systems & robotics, machine learning & AI, and cybersecurity & network defense.
-
-<br>
-
-## 📊 GitHub Stats
-
-![Yvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gishman-creator&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gishman-creator&layout=compact&theme=vue-dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gishman-creator&theme=vue-dark&hide_border=true)
-
-<br>
-
-## 📫 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-migishayvan.vercel.app-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://migishayvan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-migisha--yvan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migisha-yvan-3923822ab/)
-[![GitHub](https://img.shields.io/badge/GitHub-Gishman--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gishman-creator)
