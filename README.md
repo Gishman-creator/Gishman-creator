@@ -1,16 +1,27 @@
-# Hi there, I'm MIGISHA Yvan
+# MIGISHA Yvan
 
-Full-Stack Software Developer skilled in end-to-end web architecture, mobile development, cloud automation, and modern software design. Passionate about exploring new possibilities, shaping distinct visual identities, and delivering high-quality, scalable solutions.
+### Full-Stack Software Developer
+
+Skilled in end-to-end web architecture, mobile development, cloud automation, and modern software design. Passionate about exploring new possibilities, shaping distinct visual identities, and delivering high-quality, scalable solutions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-migishayvan.vercel.app-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://migishayvan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-migisha--yvan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migisha-yvan-3923822ab/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gishman--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gishman-creator)
 
----
+<br>
 
-### Tech Stack & Skills
+## 🧭 About Me
 
-**Languages**  
+- 🎓 Studying **Software Engineering & Embedded Systems** at Rwanda Coding Academy
+- 💼 Currently building AI-powered learning tools at **Uwera AI**
+- 🌍 Based in Kigali, Rwanda
+- 🗣️ Kinyarwanda (native) · English (fluent) · French (conversational)
+
+<br>
+
+## 🛠️ Tech Stack
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +32,7 @@ Full-Stack Software Developer skilled in end-to-end web architecture, mobile dev
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Frontend & Mobile**  
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,7 +43,7 @@ Full-Stack Software Developer skilled in end-to-end web architecture, mobile dev
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & APIs**  
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -42,7 +53,7 @@ Full-Stack Software Developer skilled in end-to-end web architecture, mobile dev
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Databases**  
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -52,7 +63,7 @@ Full-Stack Software Developer skilled in end-to-end web architecture, mobile dev
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**DevOps & Cloud**  
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -62,40 +73,51 @@ Full-Stack Software Developer skilled in end-to-end web architecture, mobile dev
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-**Robotics, AI & Computer Vision**  
+### Robotics, AI & Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-**Cybersecurity & Networking**  
+### Cybersecurity & Networking
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-113B59?style=for-the-badge&logo=metasploit&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
----
+<br>
 
-### Experience
+## 💼 Experience
 
-- **Frontend Developer (Student Employment)** — [Uwera AI](https://uwera.rw/) *(Jan 2026 – Apr 2026)*
-  - *Rwanda Coding Academy, LuxDev & Rwanda TVET Board (RTB)*
-  - Built AI-powered interactive learning tools trained on TVET trades curriculum.
-  - Developed progress tracking dashboards, quiz generators, and handout distribution tools for teachers.
+**Frontend Developer** (Student Employment) · [Uwera AI](https://uwera.rw/)
+`Jan 2026 – Apr 2026` · Rwanda Coding Academy, LuxDev & Rwanda TVET Board (RTB)
 
----
+- Built AI-powered interactive learning tools trained on the TVET trades curriculum
+- Developed progress-tracking dashboards, quiz generators, and handout distribution tools for teachers
 
-### Education
+<br>
 
-- **Rwanda Coding Academy (RCA)** *(2023 – 2026)*
-  - **Specialization:** Software Engineering & Embedded Systems
-  - Specialized high school education focused on software development, embedded systems & robotics, machine learning & AI, and cybersecurity & network defense.
+## 🎓 Education
 
----
+**Rwanda Coding Academy (RCA)** · `2023 – 2026`
+Specialization: Software Engineering & Embedded Systems
 
-### Spoken Languages
+Specialized high school education focused on software development, embedded systems & robotics, machine learning & AI, and cybersecurity & network defense.
 
-- **Kinyarwanda:** Native / Fluent
-- **English:** Fluent
-- **French:** Conversational
+<br>
+
+## 📊 GitHub Stats
+
+![Yvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gishman-creator&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gishman-creator&layout=compact&theme=vue-dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gishman-creator&theme=vue-dark&hide_border=true)
+
+<br>
+
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-migishayvan.vercel.app-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://migishayvan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-migisha--yvan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migisha-yvan-3923822ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-Gishman--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gishman-creator)
