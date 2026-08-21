@@ -5,7 +5,7 @@
 Skilled in end-to-end web architecture, mobile development, cloud automation, and modern software design. Passionate about exploring new possibilities, shaping distinct visual identities, and delivering high-quality, scalable solutions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-migishayvan.vercel.app-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://migishayvan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-migisha--yvan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migisha-yvan-3923822ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-migisha--yvan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migishayvan/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gishman--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gishman-creator)
 
 ### Languages
